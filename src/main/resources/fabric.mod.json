@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "neonvisuals",
+  "version": "${version}",
+  "name": "NeonVisuals",
+  "description": "A client-side visual enhancement mod for Minecraft.",
+  "authors": ["feverbro"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.feverbro.neonvisuals.NeonVisualsClient"] },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": ">=0.141.6"
+  }
+}
