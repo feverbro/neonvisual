@@ -4,7 +4,7 @@ Client-side visual mod for **Minecraft 1.21.11 (Fabric)**.
 
 ## Build requirements
 - Java 21
-- Gradle 8.14
+- Gradle 9.2.1
 - Fabric Loader 0.18.1
 - Fabric API 0.141.6+1.21.11
 
